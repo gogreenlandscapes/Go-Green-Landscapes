@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Block non-public files
+Disallow: /js/
+Disallow: /css/
+
+# Sitemap location
+Sitemap: https://gogreenlandscapes.store/sitemap.xml
